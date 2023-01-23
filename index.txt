@@ -1,3 +1,5 @@
 Hello my friend
 New file good
 good
+
+yes
